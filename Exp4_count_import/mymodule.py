@@ -9,3 +9,4 @@ def sq(a, b = 2):
 
 def cu(a ,b = 3):
     return a ** b
+
